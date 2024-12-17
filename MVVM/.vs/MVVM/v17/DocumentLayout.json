@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karbo\\Desktop\\\u0440\u043F\u043C\\pract\\MVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFE161-5DC9-4738-A187-B271014B8BBB}|WpfApp1\\WpfApp1.csproj|c:\\users\\karbo\\desktop\\\u0440\u043F\u043C\\pract\\mvvm\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{67FFE161-5DC9-4738-A187-B271014B8BBB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFE161-5DC9-4738-A187-B271014B8BBB}|WpfApp1\\WpfApp1.csproj|c:\\users\\karbo\\desktop\\\u0440\u043F\u043C\\pract\\mvvm\\wpfapp1\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FFE161-5DC9-4738-A187-B271014B8BBB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFE161-5DC9-4738-A187-B271014B8BBB}|WpfApp1\\WpfApp1.csproj|c:\\users\\karbo\\desktop\\\u0440\u043F\u043C\\pract\\mvvm\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{67FFE161-5DC9-4738-A187-B271014B8BBB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFE161-5DC9-4738-A187-B271014B8BBB}|WpfApp1\\WpfApp1.csproj|c:\\users\\karbo\\desktop\\\u0440\u043F\u043C\\pract\\mvvm\\wpfapp1\\vievmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FFE161-5DC9-4738-A187-B271014B8BBB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\vievmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\karbo\\Desktop\\\u0440\u043F\u043C\\pract\\MVVM\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\karbo\\Desktop\\\u0440\u043F\u043C\\pract\\MVVM\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-14T20:38:52.784Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VievModel.cs",
+              "DocumentMoniker": "C:\\Users\\karbo\\Desktop\\\u0440\u043F\u043C\\pract\\MVVM\\WpfApp1\\VievModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\VievModel.cs",
+              "ToolTip": "C:\\Users\\karbo\\Desktop\\\u0440\u043F\u043C\\pract\\MVVM\\WpfApp1\\VievModel.cs",
+              "RelativeToolTip": "WpfApp1\\VievModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:38:59.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\karbo\\Desktop\\\u0440\u043F\u043C\\pract\\MVVM\\WpfApp1\\Phone.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Phone.cs",
+              "ToolTip": "C:\\Users\\karbo\\Desktop\\\u0440\u043F\u043C\\pract\\MVVM\\WpfApp1\\Phone.cs",
+              "RelativeToolTip": "WpfApp1\\Phone.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:38:59.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\karbo\\Desktop\\\u0440\u043F\u043C\\pract\\MVVM\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\karbo\\Desktop\\\u0440\u043F\u043C\\pract\\MVVM\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-14T20:38:55.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
